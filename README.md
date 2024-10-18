@@ -1,4 +1,4 @@
 # vinayak
 This is demo for Git &amp; Github  class.
-# tacher
+# teacher
 raj patidar
